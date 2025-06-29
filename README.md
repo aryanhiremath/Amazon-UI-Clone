@@ -1,7 +1,7 @@
 # Amazon UI Clone
 
 This is a front-end clone of the Amazon homepage built using basic web technologies.  
-The project is purely static and focuses on layout, styling, and responsiveness (if applicable).
+The project is purely static and focuses on layout & styling.
 
 ##  Built With
 
